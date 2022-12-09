@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Acronyms</string>
+    <string name="no_results_found">No results found!</string>
+    <string name="starting_message">Start typing an Acronym to search</string>
+    <string name="enter_acronym">Enter acronym</string>
+    <string name="clear">CLEAR</string>
+</resources>
